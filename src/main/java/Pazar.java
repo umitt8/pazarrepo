@@ -1,5 +1,5 @@
 public class Pazar {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         System.out.println("h");
         //ikivi
         //v3
@@ -7,7 +7,10 @@ public class Pazar {
         //v5
         //kedi
         //pulll
+    //push
+    //iyrt
 
 
-    }
-}
+
+        }
+        }
